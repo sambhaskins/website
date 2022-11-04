@@ -1,2 +1,1 @@
-#Woo!
-My super sweet static personal site
+My super sweet, mostly static, personal site
